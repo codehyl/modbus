@@ -14,7 +14,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Modbus4jApplication {
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         SpringApplication.run(Modbus4jApplication.class, args);
+=======
+
+        SpringApplication.run(Modbus4jApplication.class, args);
+
+>>>>>>> Initial commit
     }
 
 }
