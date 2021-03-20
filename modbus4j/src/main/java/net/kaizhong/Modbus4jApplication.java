@@ -16,7 +16,6 @@ public class Modbus4jApplication {
     public static void main(String[] args) {
 //        1
         SpringApplication.run(Modbus4jApplication.class, args);
-//        2
     }
 
 }
